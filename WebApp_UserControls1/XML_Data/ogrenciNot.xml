@@ -1,0 +1,51 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <deneme>
+    <ogrenciAdiSoyadi>CANAN BIÇAK</ogrenciAdiSoyadi>
+    <dersAdi>FELSEFE</dersAdi>
+    <odNot1>70</odNot1>
+    <odNot2>65</odNot2>
+    <odOdev>89</odOdev>
+    <odSozlu>90</odSozlu>
+  </deneme>
+  <deneme>
+    <ogrenciAdiSoyadi>CANAN BIÇAK</ogrenciAdiSoyadi>
+    <dersAdi>OSMANLI TARİHİ</dersAdi>
+    <odNot1>70</odNot1>
+    <odNot2>90</odNot2>
+    <odOdev>67</odOdev>
+    <odSozlu>89</odSozlu>
+  </deneme>
+  <deneme>
+    <ogrenciAdiSoyadi>GÜLŞEN ALBAYRAK</ogrenciAdiSoyadi>
+    <dersAdi>T.C. İNKILAP TARİHİ</dersAdi>
+    <odNot1>50</odNot1>
+    <odNot2>40</odNot2>
+    <odOdev>49</odOdev>
+    <odSozlu>56</odSozlu>
+  </deneme>
+  <deneme>
+    <ogrenciAdiSoyadi>GÜLŞEN ALBAYRAK</ogrenciAdiSoyadi>
+    <dersAdi>MATEMATİK</dersAdi>
+    <odNot1>80</odNot1>
+    <odNot2>80</odNot2>
+    <odOdev>80</odOdev>
+    <odSozlu>80</odSozlu>
+  </deneme>
+  <deneme>
+    <ogrenciAdiSoyadi>SELİM DERVİŞOĞLU</ogrenciAdiSoyadi>
+    <dersAdi>MUHASEBE TEKNİKLERİ</dersAdi>
+    <odNot1>80</odNot1>
+    <odNot2>90</odNot2>
+    <odOdev>60</odOdev>
+    <odSozlu>70</odSozlu>
+  </deneme>
+  <deneme>
+    <ogrenciAdiSoyadi>SELİM DERVİŞOĞLU</ogrenciAdiSoyadi>
+    <dersAdi>SEKRETERLİK TEKNİKLERİ</dersAdi>
+    <odNot1>90</odNot1>
+    <odNot2>80</odNot2>
+    <odOdev>70</odOdev>
+    <odSozlu>90</odSozlu>
+  </deneme>
+</DocumentElement>
